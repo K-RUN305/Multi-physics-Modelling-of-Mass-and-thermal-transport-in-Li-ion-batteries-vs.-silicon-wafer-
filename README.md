@@ -1,2 +1,3 @@
-# Multi-physics-Modelling-of-Mass-and-thermal-transport-in-Li-ion-batteries-vs.-silicon-wafer-
+# Li-ion-batteries vs.silicon-wafer
 Developed a MATLAB-based multiphysics model to analyze coupled mass and thermal transport in Li-ion batteries and silicon wafers, evaluating temperature distribution, diffusion behavior, and transport characteristics under varying operating conditions.
+Developed a **MATLAB-based multiphysics model** to analyze coupled **mass and heat transport** in Li-ion batteries and silicon wafers. Solved governing transport equations to study **temperature distribution, concentration gradients, diffusion, and thermal behavior** under varying operating conditions, enabling comparison of transport characteristics and identification of key parameters affecting system performance.
